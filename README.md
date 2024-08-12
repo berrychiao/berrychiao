@@ -1,1 +1,1 @@
-![bing_daily](https://bing.biturl.top/?resolution=UHD&format=json&index=0&mkt=zh-CN "bing")
+![bing_daily](https://bing.img.run/uhd.php "bing")
